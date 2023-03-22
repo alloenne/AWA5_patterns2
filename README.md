@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/f8n6fpn61e2qja1s?svg=true)](https://ci.appveyor.com/project/alloenne/awa5-patterns2)
